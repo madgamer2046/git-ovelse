@@ -1,3 +1,3 @@
 # git-ovelse
 
-## hei madgamer
+## hei madgamer, du er kul
